@@ -1,2 +1,0 @@
-name = raw_input("Hello hacker, what is your name?\n");
-print("Welcome, " + str(name));
